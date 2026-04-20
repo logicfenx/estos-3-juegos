@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/estos-3-juegos",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a estos-3-juegos",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/estos-3-juegos.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/juegos-triunfando-entre-jugadores/"
+    },
+    "homepage": "https://bitcu.co/juegos-triunfando-entre-jugadores/"
+}
